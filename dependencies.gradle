@@ -1,0 +1,4 @@
+ext.slf4jVersion = "2.0.0"
+
+ext.junitJupiterVersion = "5.9.0"
+ext.mockitoVersion = "4.7.0"
